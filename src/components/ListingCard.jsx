@@ -7,7 +7,7 @@ const ListingCard = ({ listing }) => {
       <Card className='w-[320px]'>
         <img
           className='h-[200px] w-full rounded-md object-cover'
-          src={`/src/assets/${listing.images[0]}`}
+          src={`/public/img/${listing.images[0]}`}
           alt={listing.name}
         />
         <CardContent className='p-4'>
