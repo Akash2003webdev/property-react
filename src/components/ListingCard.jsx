@@ -15,6 +15,7 @@ const ListingCard = ({ listing }) => {
         </CardContent>
       </Card>
     </Link>
+    //asdfghj
   );
 };
 export default ListingCard;
